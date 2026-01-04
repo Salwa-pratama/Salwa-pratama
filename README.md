@@ -9,4 +9,10 @@ A backend enthusiash focusing on Go 🚀
 - 
 - ⚡ Fun fact: I love sports, especially jogging. It helps me feel  fresh after coding all day
 
+### Skills
+
+[Express Js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+
 ![Hy](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MjFiZm1rZzBzazh0djM2MWJlYWg3YzZjeW5yZnlmM2R4cjd1dHI3NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tliXLSkzfq2C4/giphy.gif)
+
+
