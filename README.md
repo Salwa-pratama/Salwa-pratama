@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi World! I'm Ananda salwa pratama 👋<br>A backend enthusiash focusing on Go 🚀<br><br>🔭 I’m currently working on program golang backend<br>🌱 I’m currently learning GO (Golang)<br>👯 Open to internship collaborations<br>📫 Reach me on Instagram: @anndaslwaa<br>⚡ Fun fact: I love sports, especially jogging. It helps me feel fresh after coding all day
+Hi World! I'm Ananda salwa pratama 👋<br>A backend enthusiash focusing on Go 🚀<br><br>🔭
+I am currently working on a team project as a backend engineer using Golang.<br>🌱 I’m currently learning GO (Golang)<br>👯 Open to internship collaborations<br>📫 Reach me on Instagram: @anndaslwaa<br>⚡ Fun fact: I love sports, especially jogging. It helps me feel fresh after coding all day
 
 
 ## 🌐 Socials:
